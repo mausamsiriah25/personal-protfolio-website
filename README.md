@@ -35,7 +35,7 @@ A premium, futuristic single-page portfolio built with semantic HTML5, vanilla C
 No build tools required.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/<mausamsiriah25>/<personal-portfolio-website>.git
 cd <your-repo>
 ```
 
